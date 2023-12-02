@@ -19,9 +19,11 @@
 
 5. Collect new knowledge and run the chatbot:
 
+
    python daily_top_new_bot.py -p
 
 7. To run the chatbot (without getting updated knowledge):
+
 
    python daily_top_new_bot.py
    
