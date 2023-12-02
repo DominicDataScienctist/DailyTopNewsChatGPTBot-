@@ -15,6 +15,8 @@
    
    iii. source venv/bin/activate
 
+   iv. put in your own openai credentials in config/
+
 5. Collect new knowledge and run the chatbot:
    python daily_top_new_bot.py -p
 
