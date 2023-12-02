@@ -1,0 +1,5 @@
+api_type: azure
+api_version: API_VERSION
+api_base: API_BASE
+api_key: API_KET
+data_dir: PATH_TO_KNOWLEDGE_BASE_DATA
