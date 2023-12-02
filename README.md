@@ -20,7 +20,8 @@
    ython daily_top_new_bot.py
    
 7. Here is a quick demo of the chatbot, notice that the demo was recorded on Dec 1st of 2023 as of the date the Chatbot replied when asked about when its knowledge was based on:
-   
+
+
 
 https://github.com/DominicDataScienctist/DailyTopNewsChatGPTBot-/assets/8252308/06ad3f25-825e-4a2b-8981-eb2a80138ab6
 
