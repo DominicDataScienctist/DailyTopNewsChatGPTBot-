@@ -15,7 +15,7 @@
    
    iii. source venv/bin/activate
 
-   iv. put in your own openai credentials in config/env.yaml (for reference, you can see config/env.yaml)
+   iv. put in your own openai credentials in config/env.yaml (for reference, you can see config/env-example.yaml)
 
 5. Collect new knowledge and run the chatbot:
    python daily_top_new_bot.py -p
