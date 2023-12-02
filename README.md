@@ -2,6 +2,7 @@
    Given that ChatGPT was trained with data from a cut-off date, with ChatGPT 4 at April, 2023 and ChatGPT 3.5 at Sept, 2021. To allow ChatGPT to talk about news. This repo is provides:
 
    i. A BeautifulSoup4 powered web scraper to get real time news articles from https://www.npr.org
+
    ii. ChatGPT bot that utilizes Langchain and ChatCompletion model that is back with updated knowledge acquired in i.
   
 3. Set up the tool:
