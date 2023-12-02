@@ -9,7 +9,7 @@
   
 3. Set up the tool:
 
-   i. git clone
+   i. git clone git@github.com:DominicDataScienctist/DailyTopNewsChatGPTBot-.git
    
    ii. cd ./DailyTopNewsChatGPTBot-
    
