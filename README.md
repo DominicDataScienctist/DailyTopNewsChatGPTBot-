@@ -18,12 +18,14 @@
    iv. put in your own openai credentials in config/env.yaml (for reference, you can see config/env-example.yaml)
 
 5. Collect new knowledge and run the chatbot:
+
    python daily_top_new_bot.py -p
 
-6. To run the chatbot (without getting updated knowledge):
-   ython daily_top_new_bot.py
+7. To run the chatbot (without getting updated knowledge):
+
+   python daily_top_new_bot.py
    
-7. Here is a quick demo of the chatbot, notice that the demo was recorded on Dec 1st of 2023 as of the date the Chatbot replied when asked about when its knowledge was based on:
+9. Here is a quick demo of the chatbot, notice that the demo was recorded on Dec 1st of 2023 as of the date the Chatbot replied when asked about when its knowledge was based on:
 
 
 
